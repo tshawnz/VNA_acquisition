@@ -32,8 +32,8 @@ Feel free to email me for any problems on the program:
 tzhu59@wisc.edu
 wolfarm@163.com on Skype
 
+Tianxiang Zhu
 Hai Lab
-Aviad Hai
 Department of Biomedical Engineering
 & Grainger Institute for Engineering
 University of Wisconsin-Madison
