@@ -1,4 +1,10 @@
 # VNA_acquisition
-Keysight E5061A VNA binary S11 datapoints acquisition for high speed freqeuncy sweep readings
+The repo contains:
+
+Keysight E5061A VNA binary S11 datapoints acquisition
 
 Could be used on other keysight VNA models with the same API
+
+Copper Mountain R60 VNA S11 datapoints acquisiton
+
+Could be used on other copper mountain models with the same API
