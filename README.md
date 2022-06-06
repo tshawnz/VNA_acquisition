@@ -7,7 +7,7 @@ Could be used on other keysight VNA models with the same API
 
 Copper Mountain R60 VNA S11 datapoints acquisiton
 
-Could be used on other copper mountain models with the same API
+Could be used on other copper mountain 1-port models with the same API
 
 
 Hai Lab
