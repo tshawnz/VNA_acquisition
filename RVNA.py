@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Updated on 11/14/2021
-Fixed Connection bug
+Fixed Connection
 
 Before running the code:
     1. Make sure RVNA software is running
