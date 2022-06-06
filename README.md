@@ -8,3 +8,8 @@ Could be used on other keysight VNA models with the same API
 Copper Mountain R60 VNA S11 datapoints acquisiton
 
 Could be used on other copper mountain models with the same API
+
+Hai Lab
+Department of Biomedical Engineering
+& Grainger Institute for Engineering
+University of Wisconsin-Madison
